@@ -1,0 +1,10 @@
+C:\Users\huseyin.kanat\Desktop\UDEMY PROJELER\Çİft Tek Bulma\Çİft Tek Bulma\bin\Debug\Çİft Tek Bulma.exe.config
+C:\Users\huseyin.kanat\Desktop\UDEMY PROJELER\Çİft Tek Bulma\Çİft Tek Bulma\bin\Debug\Çİft Tek Bulma.exe
+C:\Users\huseyin.kanat\Desktop\UDEMY PROJELER\Çİft Tek Bulma\Çİft Tek Bulma\bin\Debug\Çİft Tek Bulma.pdb
+C:\Users\huseyin.kanat\Desktop\UDEMY PROJELER\Çİft Tek Bulma\Çİft Tek Bulma\obj\Debug\Çİft Tek Bulma.csprojAssemblyReference.cache
+C:\Users\huseyin.kanat\Desktop\UDEMY PROJELER\Çİft Tek Bulma\Çİft Tek Bulma\obj\Debug\Çİft_Tek_Bulma.Form1.resources
+C:\Users\huseyin.kanat\Desktop\UDEMY PROJELER\Çİft Tek Bulma\Çİft Tek Bulma\obj\Debug\Çİft_Tek_Bulma.Properties.Resources.resources
+C:\Users\huseyin.kanat\Desktop\UDEMY PROJELER\Çİft Tek Bulma\Çİft Tek Bulma\obj\Debug\Çİft Tek Bulma.csproj.GenerateResource.cache
+C:\Users\huseyin.kanat\Desktop\UDEMY PROJELER\Çİft Tek Bulma\Çİft Tek Bulma\obj\Debug\Çİft Tek Bulma.csproj.CoreCompileInputs.cache
+C:\Users\huseyin.kanat\Desktop\UDEMY PROJELER\Çİft Tek Bulma\Çİft Tek Bulma\obj\Debug\Çİft Tek Bulma.exe
+C:\Users\huseyin.kanat\Desktop\UDEMY PROJELER\Çİft Tek Bulma\Çİft Tek Bulma\obj\Debug\Çİft Tek Bulma.pdb
